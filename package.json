@@ -1,6 +1,6 @@
 {
   "name": "express-checkrole",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "It is a custom middleware that helps to check user role on http requests",
   "main": "index.js",
   "scripts": {
@@ -15,7 +15,7 @@
   "repository": {
     "type": "git",
     "url": "https://github.com/sounikc/express-checkrole"
-},
+  },
   "author": "",
   "license": "ISC"
 }
