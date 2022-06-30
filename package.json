@@ -1,6 +1,6 @@
 {
   "name": "express-checkrole",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "It is a custom middleware that helps to check user role on http requests",
   "main": "index.js",
   "scripts": {
