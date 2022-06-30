@@ -1,0 +1,17 @@
+{
+  "name": "express-checkrole",
+  "version": "1.0.0",
+  "description": "It is a custom middleware that helps to check user role on http requests",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "express",
+    "role",
+    "user",
+    "middleware"
+  ],
+  "author": "",
+  "license": "ISC"
+}
