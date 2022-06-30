@@ -12,6 +12,10 @@
     "user",
     "middleware"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sounikc/express-checkrole"
+},
   "author": "",
   "license": "ISC"
 }

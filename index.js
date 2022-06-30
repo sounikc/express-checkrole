@@ -16,4 +16,5 @@ const checkrole = (roles, flag=false,routename='/')=>{
     }
 }
 
+
 module.exports = checkrole;

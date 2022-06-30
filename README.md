@@ -24,4 +24,4 @@ app.use(checkrole(['<ROLE_NAME>'],<FLAG>,'<ROUTE_NAME>'));
 // OPTIONAL: pass a specific ROUTE name to redirect the user to a specific route e.g. '/foo' 
 
 
-All the best! Happy Coding! :+1: :beers:
+All the best!Happy Coding! :+1: :beers:
