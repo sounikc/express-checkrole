@@ -1,4 +1,4 @@
-### rupee-yen
+### express-checkrole
 >It is an [Express](https://github.com/expressjs/express) dependant middleware i.e you must have express installed in your project
 
 >Someone can use this middleware if you want to restrict a user to access specific resources(route) on the network
