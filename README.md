@@ -11,7 +11,7 @@ npm install express-checkrole
 # How to Use
 **app.js**
 ```
-var checkrole = require('express-checkrole');
+const checkrole = require('express-checkrole');
 ```
 ```
 app.use(checkrole(['<ROLE_NAME>'],<FLAG>,'<ROUTE_NAME>')); 
